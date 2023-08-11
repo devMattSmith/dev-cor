@@ -1,0 +1,14 @@
+{
+  "name": "matt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-origin": "^0.4.5"
+  }
+}
